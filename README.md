@@ -1,6 +1,6 @@
 # OandaData
 
-Download candle data from Oanda to be used for backtesting through the Oanda Trader user interface.
+Download candle data from Oanda to be used for backtesting through the [Oanda Trader](https://github.com/kobusjoubert/oanda_trader) user interface.
 
 ## Installation
 
